@@ -1,1 +1,1 @@
-# skripsi-wilmay
+# tf-idf lstm
